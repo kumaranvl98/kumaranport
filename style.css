@@ -1,0 +1,27 @@
+
+*{
+    font-family: "Poppins", sans-serif;
+  
+  }
+  
+.banner{
+background-image: url(img/pg1.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+padding: 230px;
+
+}
+.sec2{
+    background-image: url(img/pg3.jpg);
+    background-color: rgba(177, 156, 156, 0.763);
+    padding-top: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.skillspadding{
+  padding: 50px;
+}
+.contect{
+  
+  color: aqua;
+}
